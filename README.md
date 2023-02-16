@@ -1,1 +1,3 @@
 # ChatApplication-Java-Firabase
+
+This chat application uses Firebase to manage authentication and data storage. The application is designed to use activities/fragments, with the Auth Activity being the launcher activity that hosts the Login and SignUp Fragments. The Main Activity hosts My Chats, Chat, and Create Chat Fragments. The requirements for each of these fragments are provided, including functionality for login, signup, displaying a list of chats, viewing individual chat sessions, sending and deleting messages, and logging out. Specific details for each requirement are outlined to ensure the successful implementation of the application.
